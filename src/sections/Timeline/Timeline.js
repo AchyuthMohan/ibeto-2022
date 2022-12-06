@@ -129,7 +129,7 @@ const TimelineComponent = () => {
               className="vertical-timeline-element--work "
               contentStyle={{ color: "#ffff", background: gradient1 }}
               contentArrowStyle={{ borderRight: "7px solid  #094c83" }}
-              date="12th - 13th November"
+              date="1st - 10th December"
             >
               <h3 className="vertical-timeline-element-title">
                 Meet The Mentor Session
@@ -146,7 +146,7 @@ const TimelineComponent = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: gradient2 }}
               contentArrowStyle={{ borderRight: "7px solid #21b8cb" }}
-              date="19th November"
+              date="15th December"
             >
               <h3 className="vertical-timeline-element-title">Project Plan</h3>
 
@@ -160,7 +160,7 @@ const TimelineComponent = () => {
               className="vertical-timeline-element--work "
               contentStyle={{ color: "#ffff", background: gradient1 }}
               contentArrowStyle={{ borderRight: "7px solid  #094c83" }}
-              date="Final Day"
+              date="March"
             >
               <h3 className="vertical-timeline-element-title">IBeTo Finale</h3>
 
