@@ -80,7 +80,7 @@ const TimelineComponent = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: gradient2 }}
               contentArrowStyle={{ borderRight: "7px solid #21b8cb" }}
-              date="27th October"
+              date="29th October"
             >
               <h3 className="vertical-timeline-element-title">
               Detailed Abstract Submission Closes
