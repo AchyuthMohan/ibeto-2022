@@ -33,6 +33,7 @@
 .c-images{
     width: 10rem;
     height: 10rem;
+    pointer-events: none;
 }
 .collab-section{
     display: flex;

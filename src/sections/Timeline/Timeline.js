@@ -146,7 +146,7 @@ const TimelineComponent = () => {
               className="vertical-timeline-element--work"
               contentStyle={{ background: gradient2 }}
               contentArrowStyle={{ borderRight: "7px solid #21b8cb" }}
-              date="15th December"
+              date="23rd December"
             >
               <h3 className="vertical-timeline-element-title">Project Plan</h3>
 
